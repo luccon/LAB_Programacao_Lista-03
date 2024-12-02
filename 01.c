@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define VTR 4
+#define VTR 15
 
 float vetor[VTR], num, menor, maior, soma;
 
