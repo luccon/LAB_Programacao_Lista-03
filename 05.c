@@ -17,5 +17,5 @@ int main () {
     for(int i = 0; i < strlen(string2); i++){
         string1[len1+(i-1)] = string2[i];
     }
-    printf("\n%s\n",string1);
+    printf("A concatenação das strings é: %s\n",string1);
 }
